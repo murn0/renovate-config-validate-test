@@ -1,0 +1,1 @@
+# renovate-config-validate-test
